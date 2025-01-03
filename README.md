@@ -22,4 +22,4 @@ python3 main.py ./bg.png -s               # with python
 |------|--------------------------------------|
 |  -s  | show image with default photo editor after save |
 |  -b  | copy to buffer. currectly not works  |
-|------|--------------------------------------|
+
